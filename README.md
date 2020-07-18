@@ -7,3 +7,4 @@ Given the review text with user recommendation and other information related to 
 
 
 # Submission details
+![GitHub Logo](submission.png)
